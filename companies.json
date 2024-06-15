@@ -1,0 +1,548 @@
+[
+    {
+        "name": "Microsoft Corporation",
+        "ticker": "MSFT",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Alibaba Group Holding Limited",
+        "ticker": "BABA",
+        "country": "China",
+        "industry": "E-commerce"
+    },
+    {
+        "name": "Nestl\u00e9 S.A.",
+        "ticker": "NSRGY",
+        "country": "Switzerland",
+        "industry": "Consumer Goods"
+    },
+    {
+        "name": "Toyota Motor Corporation",
+        "ticker": "TM",
+        "country": "Japan",
+        "industry": "Automotive"
+    },
+    {
+        "name": "Johnson & Johnson",
+        "ticker": "JNJ",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Taiwan Semiconductor Manufacturing Company Limited",
+        "ticker": "TSM",
+        "country": "Taiwan",
+        "industry": "Semiconductors"
+    },
+    {
+        "name": "Berkshire Hathaway Inc.",
+        "ticker": "BRK-B",
+        "country": "USA",
+        "industry": "Conglomerate"
+    },
+    {
+        "name": "Tesla Inc.",
+        "ticker": "TSLA",
+        "country": "USA",
+        "industry": "Automotive"
+    },
+    {
+        "name": "Procter & Gamble Co.",
+        "ticker": "PG",
+        "country": "USA",
+        "industry": "Consumer Goods"
+    },
+    {
+        "name": "Unilever PLC",
+        "ticker": "UL",
+        "country": "UK",
+        "industry": "Consumer Goods"
+    },
+    {
+        "name": "Apple Inc.",
+        "ticker": "AAPL",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Amazon.com Inc.",
+        "ticker": "AMZN",
+        "country": "USA",
+        "industry": "E-commerce"
+    },
+    {
+        "name": "Samsung Electronics",
+        "ticker": "SSNLF",
+        "country": "South Korea",
+        "industry": "Technology"
+    },
+    {
+        "name": "Walmart Inc.",
+        "ticker": "WMT",
+        "country": "USA",
+        "industry": "Retail"
+    },
+    {
+        "name": "Roche Holding AG",
+        "ticker": "RHHBY",
+        "country": "Switzerland",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Chevron Corporation",
+        "ticker": "CVX",
+        "country": "USA",
+        "industry": "Energy"
+    },
+    {
+        "name": "JPMorgan Chase & Co.",
+        "ticker": "JPM",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "Visa Inc.",
+        "ticker": "V",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "Tencent Holdings Ltd.",
+        "ticker": "TCEHY",
+        "country": "China",
+        "industry": "Technology"
+    },
+    {
+        "name": "Alphabet Inc.",
+        "ticker": "GOOGL",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Coca-Cola Co.",
+        "ticker": "KO",
+        "country": "USA",
+        "industry": "Consumer Goods"
+    },
+    {
+        "name": "PepsiCo Inc.",
+        "ticker": "PEP",
+        "country": "USA",
+        "industry": "Consumer Goods"
+    },
+    {
+        "name": "Pfizer Inc.",
+        "ticker": "PFE",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Cisco Systems Inc.",
+        "ticker": "CSCO",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Intel Corporation",
+        "ticker": "INTC",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Nike Inc.",
+        "ticker": "NKE",
+        "country": "USA",
+        "industry": "Consumer Goods"
+    },
+    {
+        "name": "Exxon Mobil Corporation",
+        "ticker": "XOM",
+        "country": "USA",
+        "industry": "Energy"
+    },
+    {
+        "name": "Royal Dutch Shell plc",
+        "ticker": "RDS-A",
+        "country": "Netherlands",
+        "industry": "Energy"
+    },
+    {
+        "name": "BP plc",
+        "ticker": "BP",
+        "country": "UK",
+        "industry": "Energy"
+    },
+    {
+        "name": "TotalEnergies SE",
+        "ticker": "TTE",
+        "country": "France",
+        "industry": "Energy"
+    },
+    {
+        "name": "BHP Group Limited",
+        "ticker": "BHP",
+        "country": "Australia",
+        "industry": "Materials"
+    },
+    {
+        "name": "Rio Tinto Group",
+        "ticker": "RIO",
+        "country": "UK",
+        "industry": "Materials"
+    },
+    {
+        "name": "Glencore plc",
+        "ticker": "GLNCY",
+        "country": "Switzerland",
+        "industry": "Materials"
+    },
+    {
+        "name": "Volkswagen AG",
+        "ticker": "VWAGY",
+        "country": "Germany",
+        "industry": "Automotive"
+    },
+    {
+        "name": "Daimler AG",
+        "ticker": "DDAIF",
+        "country": "Germany",
+        "industry": "Automotive"
+    },
+    {
+        "name": "BMW AG",
+        "ticker": "BMWYY",
+        "country": "Germany",
+        "industry": "Automotive"
+    },
+    {
+        "name": "American Express Company",
+        "ticker": "AXP",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "Goldman Sachs Group Inc.",
+        "ticker": "GS",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "Morgan Stanley",
+        "ticker": "MS",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "HSBC Holdings plc",
+        "ticker": "HSBC",
+        "country": "UK",
+        "industry": "Financials"
+    },
+    {
+        "name": "Barclays plc",
+        "ticker": "BCS",
+        "country": "UK",
+        "industry": "Financials"
+    },
+    {
+        "name": "UBS Group AG",
+        "ticker": "UBS",
+        "country": "Switzerland",
+        "industry": "Financials"
+    },
+    {
+        "name": "Bayer AG",
+        "ticker": "BAYRY",
+        "country": "Germany",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Sanofi",
+        "ticker": "SNY",
+        "country": "France",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "GlaxoSmithKline plc",
+        "ticker": "GSK",
+        "country": "UK",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Novartis AG",
+        "ticker": "NVS",
+        "country": "Switzerland",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Merck & Co. Inc.",
+        "ticker": "MRK",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Bristol-Myers Squibb Company",
+        "ticker": "BMY",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "AbbVie Inc.",
+        "ticker": "ABBV",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Medtronic plc",
+        "ticker": "MDT",
+        "country": "Ireland",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "UnitedHealth Group Incorporated",
+        "ticker": "UNH",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Wells Fargo & Company",
+        "ticker": "WFC",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "The Boeing Company",
+        "ticker": "BA",
+        "country": "USA",
+        "industry": "Aerospace"
+    },
+    {
+        "name": "Airbus SE",
+        "ticker": "EADSY",
+        "country": "France",
+        "industry": "Aerospace"
+    },
+    {
+        "name": "Lockheed Martin Corporation",
+        "ticker": "LMT",
+        "country": "USA",
+        "industry": "Aerospace"
+    },
+    {
+        "name": "Northrop Grumman Corporation",
+        "ticker": "NOC",
+        "country": "USA",
+        "industry": "Aerospace"
+    },
+    {
+        "name": "Raytheon Technologies Corporation",
+        "ticker": "RTX",
+        "country": "USA",
+        "industry": "Aerospace"
+    },
+    {
+        "name": "General Electric Company",
+        "ticker": "GE",
+        "country": "USA",
+        "industry": "Conglomerate"
+    },
+    {
+        "name": "Siemens AG",
+        "ticker": "SIEGY",
+        "country": "Germany",
+        "industry": "Conglomerate"
+    },
+    {
+        "name": "3M Company",
+        "ticker": "MMM",
+        "country": "USA",
+        "industry": "Conglomerate"
+    },
+    {
+        "name": "Honeywell International Inc.",
+        "ticker": "HON",
+        "country": "USA",
+        "industry": "Conglomerate"
+    },
+    {
+        "name": "Schlumberger Limited",
+        "ticker": "SLB",
+        "country": "USA",
+        "industry": "Energy"
+    },
+    {
+        "name": "Halliburton Company",
+        "ticker": "HAL",
+        "country": "USA",
+        "industry": "Energy"
+    },
+    {
+        "name": "ConocoPhillips",
+        "ticker": "COP",
+        "country": "USA",
+        "industry": "Energy"
+    },
+    {
+        "name": "Phillips 66",
+        "ticker": "PSX",
+        "country": "USA",
+        "industry": "Energy"
+    },
+    {
+        "name": "Eli Lilly and Company",
+        "ticker": "LLY",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Abbott Laboratories",
+        "ticker": "ABT",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Gilead Sciences Inc.",
+        "ticker": "GILD",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Amgen Inc.",
+        "ticker": "AMGN",
+        "country": "USA",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Novo Nordisk A/S",
+        "ticker": "NVO",
+        "country": "Denmark",
+        "industry": "Healthcare"
+    },
+    {
+        "name": "Facebook, Inc.",
+        "ticker": "FB",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Netflix, Inc.",
+        "ticker": "NFLX",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Adobe Inc.",
+        "ticker": "ADBE",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Salesforce.com, Inc.",
+        "ticker": "CRM",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "PayPal Holdings, Inc.",
+        "ticker": "PYPL",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "Square, Inc.",
+        "ticker": "SQ",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "Zoom Video Communications, Inc.",
+        "ticker": "ZM",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Shopify Inc.",
+        "ticker": "SHOP",
+        "country": "Canada",
+        "industry": "E-commerce"
+    },
+    {
+        "name": "ServiceNow, Inc.",
+        "ticker": "NOW",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Spotify Technology S.A.",
+        "ticker": "SPOT",
+        "country": "Luxembourg",
+        "industry": "Technology"
+    },
+    {
+        "name": "Mastercard Incorporated",
+        "ticker": "MA",
+        "country": "USA",
+        "industry": "Financials"
+    },
+    {
+        "name": "NVIDIA Corporation",
+        "ticker": "NVDA",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Advanced Micro Devices, Inc.",
+        "ticker": "AMD",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Qualcomm Incorporated",
+        "ticker": "QCOM",
+        "country": "USA",
+        "industry": "Technology"
+    },
+    {
+        "name": "Sony Group Corporation",
+        "ticker": "SONY",
+        "country": "Japan",
+        "industry": "Technology"
+    },
+    {
+        "name": "LG Electronics Inc.",
+        "ticker": "LGEAF",
+        "country": "South Korea",
+        "industry": "Technology"
+    },
+    {
+        "name": "Nintendo Co., Ltd.",
+        "ticker": "NTDOY",
+        "country": "Japan",
+        "industry": "Technology"
+    },
+    {
+        "name": "Hitachi, Ltd.",
+        "ticker": "HTHIY",
+        "country": "Japan",
+        "industry": "Technology"
+    },
+    {
+        "name": "Panasonic Corporation",
+        "ticker": "PCRFY",
+        "country": "Japan",
+        "industry": "Technology"
+    },
+    {
+        "name": "Mitsubishi Electric Corporation",
+        "ticker": "MIELY",
+        "country": "Japan",
+        "industry": "Technology"
+    },
+    {
+        "name": "Canon Inc.",
+        "ticker": "CAJ",
+        "country": "Japan",
+        "industry": "Technology"
+    }
+]

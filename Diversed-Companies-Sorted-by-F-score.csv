@@ -1,0 +1,92 @@
+,Company,Ticker,Country,Industry,Piotroski F-score
+75,"Square, Inc.",SQ,USA,Financials,9
+73,"Salesforce.com, Inc.",CRM,USA,Technology,9
+81,NVIDIA Corporation,NVDA,USA,Technology,9
+62,Halliburton Company,HAL,USA,Energy,9
+74,"PayPal Holdings, Inc.",PYPL,USA,Financials,8
+18,Tencent Holdings Ltd.,TCEHY,China,Technology,8
+72,Adobe Inc.,ADBE,USA,Technology,8
+33,Volkswagen AG,VWAGY,Germany,Automotive,8
+13,Walmart Inc.,WMT,USA,Retail,8
+69,Novo Nordisk A/S,NVO,Denmark,Healthcare,8
+20,Coca-Cola Co.,KO,USA,Consumer Goods,8
+61,Schlumberger Limited,SLB,USA,Energy,8
+60,Honeywell International Inc.,HON,USA,Conglomerate,8
+58,Siemens AG,SIEGY,Germany,Conglomerate,8
+4,Johnson & Johnson,JNJ,USA,Healthcare,8
+1,Alibaba Group Holding Limited,BABA,China,E-commerce,8
+57,General Electric Company,GE,USA,Conglomerate,8
+35,BMW AG,BMWYY,Germany,Automotive,7
+71,"Netflix, Inc.",NFLX,USA,Technology,7
+28,BP plc,BP,UK,Energy,7
+67,Gilead Sciences Inc.,GILD,USA,Healthcare,7
+45,Novartis AG,NVS,Switzerland,Healthcare,7
+52,The Boeing Company,BA,USA,Aerospace,7
+2,Nestlé S.A.,NSRGY,Switzerland,Consumer Goods,7
+9,Unilever PLC,UL,UK,Consumer Goods,7
+11,Amazon.com Inc.,AMZN,USA,E-commerce,7
+23,Cisco Systems Inc.,CSCO,USA,Technology,6
+55,Northrop Grumman Corporation,NOC,USA,Aerospace,6
+50,UnitedHealth Group Incorporated,UNH,USA,Healthcare,6
+47,Bristol-Myers Squibb Company,BMY,USA,Healthcare,6
+46,Merck & Co. Inc.,MRK,USA,Healthcare,6
+3,Toyota Motor Corporation,TM,Japan,Automotive,6
+44,GlaxoSmithKline plc,GSK,UK,Healthcare,6
+89,Mitsubishi Electric Corporation,MIELY,Japan,Technology,6
+84,Sony Group Corporation,SONY,Japan,Technology,6
+82,"Advanced Micro Devices, Inc.",AMD,USA,Technology,6
+77,Shopify Inc.,SHOP,Canada,E-commerce,6
+10,Apple Inc.,AAPL,USA,Technology,6
+80,Mastercard Incorporated,MA,USA,Financials,6
+14,Roche Holding AG,RHHBY,Switzerland,Healthcare,6
+79,Spotify Technology S.A.,SPOT,Luxembourg,Technology,6
+78,"ServiceNow, Inc.",NOW,USA,Technology,6
+17,Visa Inc.,V,USA,Financials,6
+29,TotalEnergies SE,TTE,France,Energy,6
+19,Alphabet Inc.,GOOGL,USA,Technology,6
+21,PepsiCo Inc.,PEP,USA,Consumer Goods,6
+54,Lockheed Martin Corporation,LMT,USA,Aerospace,6
+25,Nike Inc.,NKE,USA,Consumer Goods,6
+76,"Zoom Video Communications, Inc.",ZM,USA,Technology,6
+65,Eli Lilly and Company,LLY,USA,Healthcare,5
+64,Phillips 66,PSX,USA,Energy,5
+56,Raytheon Technologies Corporation,RTX,USA,Aerospace,5
+66,Abbott Laboratories,ABT,USA,Healthcare,5
+0,Microsoft Corporation,MSFT,USA,Technology,5
+53,Airbus SE,EADSY,France,Aerospace,5
+51,Wells Fargo & Company,WFC,USA,Financials,5
+16,JPMorgan Chase & Co.,JPM,USA,Financials,5
+15,Chevron Corporation,CVX,USA,Energy,5
+12,Samsung Electronics,SSNLF,South Korea,Technology,5
+8,Procter & Gamble Co.,PG,USA,Consumer Goods,5
+7,Tesla Inc.,TSLA,USA,Automotive,5
+39,HSBC Holdings plc,HSBC,UK,Financials,5
+6,Berkshire Hathaway Inc.,BRK-B,USA,Conglomerate,5
+42,Bayer AG,BAYRY,Germany,Healthcare,5
+43,Sanofi,SNY,France,Healthcare,5
+48,AbbVie Inc.,ABBV,USA,Healthcare,5
+49,Medtronic plc,MDT,Ireland,Healthcare,5
+26,Exxon Mobil Corporation,XOM,USA,Energy,5
+86,"Nintendo Co., Ltd.",NTDOY,Japan,Technology,4
+87,"Hitachi, Ltd.",HTHIY,Japan,Technology,4
+83,Qualcomm Incorporated,QCOM,USA,Technology,4
+5,Taiwan Semiconductor Manufacturing Company Limited,TSM,Taiwan,Semiconductors,4
+31,Rio Tinto Group,RIO,UK,Materials,4
+68,Amgen Inc.,AMGN,USA,Healthcare,4
+32,Glencore plc,GLNCY,Switzerland,Materials,4
+59,3M Company,MMM,USA,Conglomerate,4
+41,UBS Group AG,UBS,Switzerland,Financials,4
+63,ConocoPhillips,COP,USA,Energy,4
+36,American Express Company,AXP,USA,Financials,4
+30,BHP Group Limited,BHP,Australia,Materials,3
+37,Goldman Sachs Group Inc.,GS,USA,Financials,3
+22,Pfizer Inc.,PFE,USA,Healthcare,3
+24,Intel Corporation,INTC,USA,Technology,3
+38,Morgan Stanley,MS,USA,Financials,2
+40,Barclays plc,BCS,UK,Financials,2
+34,Daimler AG,DDAIF,Germany,Automotive,0
+27,Royal Dutch Shell plc,RDS-A,Netherlands,Energy,0
+70,"Facebook, Inc.",FB,USA,Technology,0
+85,LG Electronics Inc.,LGEAF,South Korea,Technology,0
+88,Panasonic Corporation,PCRFY,Japan,Technology,0
+90,Canon Inc.,CAJ,Japan,Technology,0
