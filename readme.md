@@ -19,10 +19,9 @@ Our project fetches financial data for a list of diversified companies, calculat
    ```bash
    pip install yfinance pandas
 
-2. **Run the Script: Execute the script in your Python environment. Make sure the companies.json file is in the same directory as your script.
+2. **Run the Script**: Execute the script in your Python environment. Make sure the companies.json file is in the same directory as your script.
 
    ```bash
 	python your_script_name.py
 
 3. **Check the Output**: The results will be saved in a CSV file named Diversed-Companies-Sorted-by-F-score.csv.
-
